@@ -13,5 +13,5 @@ public class Test {
         System.out.println(objetoClaseB.getSuperX());
         // Accede al atributo x de la ClaseA sin usar super (devuelve 10)
         System.out.println(objetoClaseB.get10X());
-    }
+    }   
 }
