@@ -16,8 +16,4 @@ public class SubClase extends SuperClase {
 	public void unMetodo(String param) {
 		System.out.println("Sobrecarga de unMetodo desde la clase SubClase");
 	}
-	
-	public void method1(String arg){...}
-
-	public String method1(String arg){...}
 }
