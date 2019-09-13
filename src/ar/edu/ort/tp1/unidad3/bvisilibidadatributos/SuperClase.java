@@ -1,4 +1,4 @@
-package ar.edu.ort.tp1.unidad3.asintaxis;
+package ar.edu.ort.tp1.unidad3.bvisilibidadatributos;
 
 /*
 * Definición de la superclase con atributos
@@ -11,4 +11,5 @@ public class SuperClase {
     String atributoDefault 				= "atributoDefault";
     protected String atributoProtected 	= "atributoProtected";
     private String atributoPrivate 		= "atributoPrivate";
+    
 }
