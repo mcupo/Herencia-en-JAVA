@@ -1,5 +1,4 @@
 package ar.edu.ort.tp1.unidad3.kconversionexplicita;
-@SuppressWarnings("unused")
 
 public class Test2 {
 
