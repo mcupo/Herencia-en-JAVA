@@ -17,13 +17,11 @@ public class Circulo extends Poligono {
 	public int getRadio() {
 		return radio;
 	}
-
 	public void setRadio(int lado) {
 		this.radio = lado;
 	}
-
 	@Override
 	public String toString() {
-		return "Circulo [radio=" + radio + "]";
+		return "Circulo [radio=" + radio + super.toString() + "]";
 	}
 }

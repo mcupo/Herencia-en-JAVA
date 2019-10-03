@@ -17,4 +17,11 @@ public abstract class Poligono {
 	public void setColorRelleno(String nombre) {
 		this.colorRelleno = nombre;
 	}
+
+	@Override
+	//Podria agregar la superficie de la siguiente manera:
+	//superficie=" + obtenerSuperficie()
+	public String toString() {
+		return " Poligono [colorRelleno=" + colorRelleno + "]";
+	}
 }
