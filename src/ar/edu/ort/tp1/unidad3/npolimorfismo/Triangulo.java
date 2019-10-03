@@ -19,12 +19,15 @@ public class Triangulo extends Poligono {
 	public int getBase() {
 		return base;
 	}
+	
 	public void setBase(int base) {
 		this.base = base;
 	}
+	
 	public int getAltura() {
 		return altura;
 	}
+	
 	public void setAltura(int altura) {
 		this.altura = altura;
 	}
@@ -32,5 +35,9 @@ public class Triangulo extends Poligono {
 	@Override
 	public String toString() {
 		return "Triangulo [base=" + base + ", altura=" + altura + super.toString() + "]";
+	}
+	
+	public void unMetodoDeTriangulo(){
+		System.out.println("Un metodo solo de triangulo");
 	}
 }

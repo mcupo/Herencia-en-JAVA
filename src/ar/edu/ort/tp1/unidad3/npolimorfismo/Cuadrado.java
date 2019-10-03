@@ -17,11 +17,17 @@ public class Cuadrado extends Poligono {
 	public int getLado() {
 		return lado;
 	}
+	
 	public void setLado(int lado) {
 		this.lado = lado;
 	}
+	
 	@Override
 	public String toString() {
 		return "Cuadrado [lado=" + lado + super.toString() + "]";
+	}
+	
+	public void unMetodoDeCuadrado(){
+		System.out.println("Un metodo solo de cuadrado");
 	}
 }
