@@ -4,6 +4,7 @@ public class Triangulo extends Poligono {
 
 	private int base;
 	private int altura;
+	
 	public Triangulo(int base, int altura) {
 	    this.base 	= base;
 	    this.altura = altura;

@@ -6,4 +6,8 @@ public class TrianguloEquilatero extends Triangulo {
 	public void dibujar() {
 		System.out.println("Implementacion de dibujar para triangulo equilatero");
 	}
+	
+	public void metodo(){
+		System.out.println("Metodo");
+	}
 }

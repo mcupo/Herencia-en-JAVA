@@ -3,6 +3,7 @@ package ar.edu.ort.tp1.unidad3.ointerfacesparte1;
 /**
  * 
  * Para definir una clase que se adapte a una interfaz concreta (o a un grupo de interfaces concretas), usamos la palabra clave implements
+ * en vez de extends, que la usamos para la herencia de clases
  */
 public class Bateria implements Instrumento {
 
