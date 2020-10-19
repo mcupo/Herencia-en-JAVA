@@ -1,79 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <class-diagram version="1.2.2" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
   associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
-  <interface id="1" language="java" name="ar.edu.ort.parte2.PuedeNadar" project="EjemploInterfaces" 
-    file="/EjemploInterfaces/src/ar/edu/ort/parte2/PuedeNadar.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="83" width="114" x="133" y="14"/>    
+  <interface id="1" language="java" name="ar.edu.ort.tp1.unidad3.pinterfacesparte2.PuedeNadar" 
+    project="Herencia-en-JAVA" file="/Herencia-en-JAVA/src/ar/edu/ort/tp1/unidad3/pinterfacesparte2/PuedeNadar.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="123" y="81"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </interface>  
-  <interface id="2" language="java" name="ar.edu.ort.parte2.PuedePelear" project="EjemploInterfaces" 
-    file="/EjemploInterfaces/src/ar/edu/ort/parte2/PuedePelear.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="350" y="55"/>    
+  <interface id="2" language="java" name="ar.edu.ort.tp1.unidad3.pinterfacesparte2.PuedePelear" 
+    project="Herencia-en-JAVA" file="/Herencia-en-JAVA/src/ar/edu/ort/tp1/unidad3/pinterfacesparte2/PuedePelear.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="331" y="77"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </interface>  
-  <interface id="3" language="java" name="ar.edu.ort.parte2.PuedeVolar" project="EjemploInterfaces" 
-    file="/EjemploInterfaces/src/ar/edu/ort/parte2/PuedeVolar.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="516" y="58"/>    
+  <interface id="3" language="java" name="ar.edu.ort.tp1.unidad3.pinterfacesparte2.PuedeUsarArma" 
+    project="Herencia-en-JAVA" file="/Herencia-en-JAVA/src/ar/edu/ort/tp1/unidad3/pinterfacesparte2/PuedeUsarArma.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="355" y="202"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </interface>  
-  <class id="4" language="java" name="ar.edu.ort.parte2.Personaje" project="EjemploInterfaces" 
-    file="/EjemploInterfaces/src/ar/edu/ort/parte2/Personaje.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="731" y="214"/>    
+  <interface id="4" language="java" name="ar.edu.ort.tp1.unidad3.pinterfacesparte2.PuedeVolar" 
+    project="Herencia-en-JAVA" file="/Herencia-en-JAVA/src/ar/edu/ort/tp1/unidad3/pinterfacesparte2/PuedeVolar.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="553" y="82"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="5" language="java" name="ar.edu.ort.tp1.unidad3.pinterfacesparte2.Aventura" project="Herencia-en-JAVA" 
+    file="/Herencia-en-JAVA/src/ar/edu/ort/tp1/unidad3/pinterfacesparte2/Aventura.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="791" y="118"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="5" language="java" name="ar.edu.ort.parte2.Mago" project="EjemploInterfaces" 
-    file="/EjemploInterfaces/src/ar/edu/ort/parte2/Mago.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="369" y="379"/>    
+  <class id="6" language="java" name="ar.edu.ort.tp1.unidad3.pinterfacesparte2.Mago" project="Herencia-en-JAVA" 
+    file="/Herencia-en-JAVA/src/ar/edu/ort/tp1/unidad3/pinterfacesparte2/Mago.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="358" y="392"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <interface id="6" language="java" name="ar.edu.ort.parte2.PuedeUsarArma" project="EjemploInterfaces" 
-    file="/EjemploInterfaces/src/ar/edu/ort/parte2/PuedeUsarArma.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="121" y="181"/>    
+  <class id="7" language="java" name="ar.edu.ort.tp1.unidad3.pinterfacesparte2.Personaje" project="Herencia-en-JAVA" 
+    file="/Herencia-en-JAVA/src/ar/edu/ort/tp1/unidad3/pinterfacesparte2/Personaje.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="110" y="316"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
-  </interface>  
-  <generalization id="7">    
+  </class>  
+  <realization id="8">    
+    <bendpoint x="501" y="180"/>    
     <end type="SOURCE" refId="6"/>    
     <end type="TARGET" refId="2"/>  
-  </generalization>  
-  <realization id="8">    
-    <end type="SOURCE" refId="5"/>    
-    <end type="TARGET" refId="2"/>  
   </realization>  
-  <realization id="9">    
-    <end type="SOURCE" refId="5"/>    
+  <generalization id="9">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+  <realization id="10">    
+    <end type="SOURCE" refId="6"/>    
     <end type="TARGET" refId="1"/>  
   </realization>  
-  <generalization id="10">    
-    <end type="SOURCE" refId="5"/>    
-    <end type="TARGET" refId="4"/>  
+  <generalization id="11">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="2"/>  
   </generalization>  
-  <realization id="11">    
-    <end type="SOURCE" refId="5"/>    
-    <end type="TARGET" refId="3"/>  
+  <realization id="12">    
+    <bendpoint x="382" y="306"/>    
+    <bendpoint x="559" y="288"/>    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="4"/>  
   </realization>  
   <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
     sort-features="false" accessors="true" visibility="true">    
