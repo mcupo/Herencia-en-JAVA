@@ -1,4 +1,4 @@
-package ar.edu.ort.tp1.unidad3.pinterfacesparte2;
+package ar.edu.ort.tp1.unidad3.ointerfacesparte3;
 
 /**
  * Una de las principales razones para utilizar interfaces es para realizar generalizaciones a más de un tipo base 

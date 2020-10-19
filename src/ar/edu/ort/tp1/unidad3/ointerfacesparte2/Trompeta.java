@@ -1,4 +1,4 @@
-package ar.edu.ort.tp1.unidad3.ointerfacesparte1;
+package ar.edu.ort.tp1.unidad3.ointerfacesparte2;
 
 public class Trompeta implements Instrumento {
 

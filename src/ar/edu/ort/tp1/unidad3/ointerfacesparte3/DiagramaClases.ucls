@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <class-diagram version="1.2.2" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
   associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
-  <interface id="1" language="java" name="ar.edu.ort.tp1.unidad3.pinterfacesparte2.PuedeNadar" 
-    project="Herencia-en-JAVA" file="/Herencia-en-JAVA/src/ar/edu/ort/tp1/unidad3/pinterfacesparte2/PuedeNadar.java" 
+  <interface id="1" language="java" name="ar.edu.ort.tp1.unidad3.ointerfacesparte3.PuedeNadar" 
+    project="Herencia-en-JAVA" file="/Herencia-en-JAVA/src/ar/edu/ort/tp1/unidad3/ointerfacesparte3/PuedeNadar.java" 
     binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="123" y="81"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
@@ -11,8 +11,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </interface>  
-  <interface id="2" language="java" name="ar.edu.ort.tp1.unidad3.pinterfacesparte2.PuedePelear" 
-    project="Herencia-en-JAVA" file="/Herencia-en-JAVA/src/ar/edu/ort/tp1/unidad3/pinterfacesparte2/PuedePelear.java" 
+  <interface id="2" language="java" name="ar.edu.ort.tp1.unidad3.ointerfacesparte3.PuedePelear" 
+    project="Herencia-en-JAVA" file="/Herencia-en-JAVA/src/ar/edu/ort/tp1/unidad3/ointerfacesparte3/PuedePelear.java" 
     binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="331" y="77"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
@@ -21,8 +21,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </interface>  
-  <interface id="3" language="java" name="ar.edu.ort.tp1.unidad3.pinterfacesparte2.PuedeUsarArma" 
-    project="Herencia-en-JAVA" file="/Herencia-en-JAVA/src/ar/edu/ort/tp1/unidad3/pinterfacesparte2/PuedeUsarArma.java" 
+  <interface id="3" language="java" name="ar.edu.ort.tp1.unidad3.ointerfacesparte3.PuedeUsarArma" 
+    project="Herencia-en-JAVA" file="/Herencia-en-JAVA/src/ar/edu/ort/tp1/unidad3/ointerfacesparte3/PuedeUsarArma.java" 
     binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="355" y="202"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
@@ -31,8 +31,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </interface>  
-  <interface id="4" language="java" name="ar.edu.ort.tp1.unidad3.pinterfacesparte2.PuedeVolar" 
-    project="Herencia-en-JAVA" file="/Herencia-en-JAVA/src/ar/edu/ort/tp1/unidad3/pinterfacesparte2/PuedeVolar.java" 
+  <interface id="4" language="java" name="ar.edu.ort.tp1.unidad3.ointerfacesparte3.PuedeVolar" 
+    project="Herencia-en-JAVA" file="/Herencia-en-JAVA/src/ar/edu/ort/tp1/unidad3/ointerfacesparte3/PuedeVolar.java" 
     binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="553" y="82"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
@@ -41,8 +41,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </interface>  
-  <class id="5" language="java" name="ar.edu.ort.tp1.unidad3.pinterfacesparte2.Aventura" project="Herencia-en-JAVA" 
-    file="/Herencia-en-JAVA/src/ar/edu/ort/tp1/unidad3/pinterfacesparte2/Aventura.java" binary="false" 
+  <class id="5" language="java" name="ar.edu.ort.tp1.unidad3.ointerfacesparte3.Aventura" project="Herencia-en-JAVA" 
+    file="/Herencia-en-JAVA/src/ar/edu/ort/tp1/unidad3/ointerfacesparte3/Aventura.java" binary="false" 
     corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="791" y="118"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
@@ -51,8 +51,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="6" language="java" name="ar.edu.ort.tp1.unidad3.pinterfacesparte2.Mago" project="Herencia-en-JAVA" 
-    file="/Herencia-en-JAVA/src/ar/edu/ort/tp1/unidad3/pinterfacesparte2/Mago.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="6" language="java" name="ar.edu.ort.tp1.unidad3.ointerfacesparte3.Mago" project="Herencia-en-JAVA" 
+    file="/Herencia-en-JAVA/src/ar/edu/ort/tp1/unidad3/ointerfacesparte3/Mago.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="358" y="392"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -60,8 +60,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="7" language="java" name="ar.edu.ort.tp1.unidad3.pinterfacesparte2.Personaje" project="Herencia-en-JAVA" 
-    file="/Herencia-en-JAVA/src/ar/edu/ort/tp1/unidad3/pinterfacesparte2/Personaje.java" binary="false" 
+  <class id="7" language="java" name="ar.edu.ort.tp1.unidad3.ointerfacesparte3.Personaje" project="Herencia-en-JAVA" 
+    file="/Herencia-en-JAVA/src/ar/edu/ort/tp1/unidad3/ointerfacesparte3/Personaje.java" binary="false" 
     corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="110" y="316"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 

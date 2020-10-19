@@ -1,4 +1,4 @@
-package ar.edu.ort.tp1.unidad3.pinterfacesparte2;
+package ar.edu.ort.tp1.unidad3.ointerfacesparte3;
 
 /**
  *  No va una coma despues de "extends Personaje"

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <class-diagram version="1.2.2" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
   associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
-  <interface id="1" language="java" name="ar.edu.ort.tp1.unidad3.ointerfacesparte1.Instrumento" 
-    project="Herencia-en-JAVA" file="/Herencia-en-JAVA/src/ar/edu/ort/tp1/unidad3/ointerfacesparte1/Instrumento.java" 
+  <interface id="1" language="java" name="ar.edu.ort.tp1.unidad3.ointerfacesparte2.Instrumento" 
+    project="Herencia-en-JAVA" file="/Herencia-en-JAVA/src/ar/edu/ort/tp1/unidad3/ointerfacesparte2/Instrumento.java" 
     binary="false" corner="BOTTOM_RIGHT">    
     <position height="117" width="177" x="268" y="11"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
@@ -11,8 +11,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </interface>  
-  <class id="2" language="java" name="ar.edu.ort.tp1.unidad3.ointerfacesparte1.Bateria" project="Herencia-en-JAVA" 
-    file="/Herencia-en-JAVA/src/ar/edu/ort/tp1/unidad3/ointerfacesparte1/Bateria.java" binary="false" 
+  <class id="2" language="java" name="ar.edu.ort.tp1.unidad3.ointerfacesparte2.Bateria" project="Herencia-en-JAVA" 
+    file="/Herencia-en-JAVA/src/ar/edu/ort/tp1/unidad3/ointerfacesparte2/Bateria.java" binary="false" 
     corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="123" y="230"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
@@ -21,8 +21,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="3" language="java" name="ar.edu.ort.tp1.unidad3.ointerfacesparte1.Flauta" project="Herencia-en-JAVA" 
-    file="/Herencia-en-JAVA/src/ar/edu/ort/tp1/unidad3/ointerfacesparte1/Flauta.java" binary="false" 
+  <class id="3" language="java" name="ar.edu.ort.tp1.unidad3.ointerfacesparte2.Flauta" project="Herencia-en-JAVA" 
+    file="/Herencia-en-JAVA/src/ar/edu/ort/tp1/unidad3/ointerfacesparte2/Flauta.java" binary="false" 
     corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="349" y="237"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
@@ -31,8 +31,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="4" language="java" name="ar.edu.ort.tp1.unidad3.ointerfacesparte1.Guitarra" project="Herencia-en-JAVA" 
-    file="/Herencia-en-JAVA/src/ar/edu/ort/tp1/unidad3/ointerfacesparte1/Guitarra.java" binary="false" 
+  <class id="4" language="java" name="ar.edu.ort.tp1.unidad3.ointerfacesparte2.Guitarra" project="Herencia-en-JAVA" 
+    file="/Herencia-en-JAVA/src/ar/edu/ort/tp1/unidad3/ointerfacesparte2/Guitarra.java" binary="false" 
     corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="550" y="236"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
@@ -41,8 +41,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="5" language="java" name="ar.edu.ort.tp1.unidad3.ointerfacesparte1.Trompeta" project="Herencia-en-JAVA" 
-    file="/Herencia-en-JAVA/src/ar/edu/ort/tp1/unidad3/ointerfacesparte1/Trompeta.java" binary="false" 
+  <class id="5" language="java" name="ar.edu.ort.tp1.unidad3.ointerfacesparte2.Trompeta" project="Herencia-en-JAVA" 
+    file="/Herencia-en-JAVA/src/ar/edu/ort/tp1/unidad3/ointerfacesparte2/Trompeta.java" binary="false" 
     corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="822" y="217"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
@@ -56,11 +56,11 @@
     <end type="TARGET" refId="1"/>  
   </realization>  
   <realization id="7">    
-    <end type="SOURCE" refId="4"/>    
+    <end type="SOURCE" refId="2"/>    
     <end type="TARGET" refId="1"/>  
   </realization>  
   <realization id="8">    
-    <end type="SOURCE" refId="2"/>    
+    <end type="SOURCE" refId="4"/>    
     <end type="TARGET" refId="1"/>  
   </realization>  
   <realization id="9">    

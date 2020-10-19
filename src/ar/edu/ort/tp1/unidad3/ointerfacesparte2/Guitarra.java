@@ -1,7 +1,7 @@
-package ar.edu.ort.tp1.unidad3.ointerfacesparte1;
+package ar.edu.ort.tp1.unidad3.ointerfacesparte2;
 
-public class Flauta implements Instrumento {
-
+public class Guitarra implements Instrumento {
+	
 	/*
 	 * Estoy obligado a implementar todos los metodos que defina la interfaz, de lo contrario el compilador indicara un error
 	 */
@@ -18,7 +18,7 @@ public class Flauta implements Instrumento {
 
 	@Override
 	public String toString() {
-		return "Flauta";
+		return "Guitarra";
 	}
-	
+
 }
